@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1677849221,,"wq"
+|2,0,1677850385,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,18 +28,30 @@
 |3,1,1,1,1,0,1677849219,"folder5"
 
 # File marks:
-'0  1  0  ~/.gitignore
-|4,48,1,0,1677849221,"~/.gitignore"
-'1  1  6  ~/.gitignore
-|4,49,1,6,1677849146,"~/.gitignore"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1677850385,"~/.git/MERGE_MSG"
+'1  1  0  ~/.gitignore
+|4,49,1,0,1677849221,"~/.gitignore"
+'2  1  6  ~/.gitignore
+|4,50,1,6,1677849146,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1677850385,"~/.git/MERGE_MSG"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1677849221,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1677849221,"~/.gitignore"
 -'  1  6  ~/.gitignore
 |4,39,1,6,1677849146,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1677849146,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1677850383	0
+	"	1	0
 
 > ~/.gitignore
 	*	1677849220	0
